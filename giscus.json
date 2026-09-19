@@ -1,0 +1,13 @@
+{
+  "origins": [
+    "https://arcalmanac.com",
+    "https://www.arcalmanac.com",
+    "https://arcalmanac.netlify.app"
+  ],
+  "originsRegex": [
+    "https://[A-Za-z0-9-]+--arcalmanac\\.netlify\\.app",
+    "http://localhost:[0-9]+",
+    "http://127\\.0\\.0\\.1:[0-9]+"
+  ],
+  "defaultCommentOrder": "oldest"
+}
